@@ -1,0 +1,14 @@
+TEST CASE: DATA PRIVACY VALIDATION
+==================================
+
+RECORD_01 (US Sensitive Disease):
+Patient exhibits symptoms consistent with HIV/AIDS.
+Weighted score check: Clinical diagnosis confirmed.
+
+RECORD_02 (Credit Cards - Narrow):
+Transaction approved for account: 4532 0154 9982 3410
+Card Type: Visa
+
+RECORD_03 (US SSN - Narrow):
+Government ID on file: 666-21-8894
+Status: Verified
