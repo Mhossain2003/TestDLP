@@ -1,0 +1,10 @@
+Diabetes	123-45-6789
+Hypertension	987-65-4321
+Asthma	111-22-3333
+Cancer	222-33-4444
+HIV	333-44-5555
+Depression	444-55-6666
+Heart Disease	555-66-7777
+Anxiety	666-77-8888
+Flu	777-88-9999
+COVID-19	888-99-0000

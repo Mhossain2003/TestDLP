@@ -1,0 +1,10 @@
+John Doe	Diabetes
+Jane Smith	Hypertension
+Michael Brown	Asthma
+Emily Davis	Cancer
+Robert Wilson	HIV
+Linda Martinez	Depression
+David Anderson	Heart Disease
+Sarah Thomas	Anxiety
+Christopher Lee	Flu
+Amanda White	COVID-19
